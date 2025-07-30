@@ -107,12 +107,3 @@ VITE_FIREBASE_APP_ID=YOUR_API_KEY_REF
 
 - Interactive Questionnaires
   Engage with diverse question types, including multiple-choice, scenario-based, and technical coding challenges.
-
-# Author
-
-## Vetrivel Ravi
-
-- Founder of Mahalakshmi Design Studioz
-- Full-Stack Web Developer with 7+ years of experience
-- YouTube Channel: [Vetrivel Ravi](https://www.youtube.com/@vetrivelravi)
-- Email: [vetrivelravi@example.com](vetrivelravi@example.com)
